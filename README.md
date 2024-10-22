@@ -1,11 +1,9 @@
 # Sport-Management
 
-Objective: Developed a backend Java Spring Boot project featuring two microservices.
+Developed a backend Java Spring Boot application that improved the management and organization of sports clubs and players.
 
-Responsibilities: 
-
--	Club and Player Microservices: Designed and implemented RESTful API to manage both microservices, including CRUD operations.
-
--	Service Discovery and Communication: Utilized Eureka for service discovery and Implemented Feign clients to facilitate communication between the two microservices.
-
--	Database Integration: Managed data persistence using MySQL, ensuring data integrity and optimal performance.
+- Created and deployed two microservices (Club and Player), implementing RESTful APIs to handle CRUD operations.
+  
+- Integrated Eureka for service discovery and utilized Feign clients for efficient communication between the microservices.
+  
+Tools Used: Java Spring Boot, MySQL, Microservices, JPA, JDBC, Eureka and feign.
